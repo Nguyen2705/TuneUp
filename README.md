@@ -4,7 +4,7 @@ A react music player web application
 ## Technology
 This project uses:
 
-- React Native
+- React.js
 - Redux
 - Node.js
 - Firebase
