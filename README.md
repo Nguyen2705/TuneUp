@@ -40,6 +40,6 @@ To run the project, please follow these steps:
 
 ![Alt text](./src/assets/TuneUp2.png)
 
-## Home Page
+## Search Page
 
 ![Alt text](./src/assets/TuneUp3.png)
