@@ -34,12 +34,12 @@ To run the project, please follow these steps:
 
 ## Login Page
 
-![Alt text](./src/assets/tuneup.png)
+![Alt text](./src/assets/TuneUp.png)
 
 ## Home Page
 
-![Alt text](./src/assets/tuneup2.png)
+![Alt text](./src/assets/TuneUp2.png)
 
 ## Home Page
 
-![Alt text](./src/assets/tuneup3.png)
+![Alt text](./src/assets/TuneUp3.png)
