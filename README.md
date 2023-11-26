@@ -1,5 +1,5 @@
-# TuneUp
-A react music player web application
+# TuneUp 🎵
+TuneUp is a user-friendly online music player that elevates your auditory experience. Discover, stream, and enjoy your favorite tunes effortlessly with a sleek interface. TuneUp personalizes your music journey, adapting to your taste and keeping you in the loop with the latest releases.
 
 ## Technology
 This project uses:
@@ -29,3 +29,17 @@ To run the project, please follow these steps:
    npm run dev
 
 4. Enjoy the music !!!
+
+
+
+## Login Page
+
+![Alt text](./assets/TuneUp.png)
+
+## Home Page
+
+![Alt text](./assets/TuneUp2.png)
+
+## Home Page
+
+![Alt text](./assets/TuneUp3.png)
